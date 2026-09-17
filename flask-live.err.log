@@ -1,0 +1,12 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.40:5000
+Press CTRL+C to quit
+127.0.0.1 - - [01/Sep/2026 13:41:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Sep/2026 13:41:51] "GET /hotel/eden-resorts-spa/ HTTP/1.1" 200 -
+127.0.0.1 - - [01/Sep/2026 13:43:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Sep/2026 13:43:34] "GET /static/images/waadi-kashmir-header-logo-v2.png HTTP/1.1" 200 -
+127.0.0.1 - - [01/Sep/2026 13:43:34] "GET /static/css/style.css?v=20260901-social-icons-2 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Sep/2026 13:44:13] "GET /tour/4 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Sep/2026 13:44:13] "GET /static/css/journey.css?v=20260831-1 HTTP/1.1" 200 -
